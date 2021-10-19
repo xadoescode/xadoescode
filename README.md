@@ -4,11 +4,11 @@
 - 💞️  Not into collaboration atm.
 - 📫 Reach me at techh4ck.code@gmail.com 
 ---
-> **💾 Mainly I use Python 🐍**
+> **💾 Mainly I use python to program 🐍**
 
-> **📦 Can write code using: Python, HTML, CSS, JavaScript, C#**
+> **📦 I can write code using in Python, HTML, CSS, JavaScript, C#**
 
-> 👀 Huge nerd irl tho
+> 👀 
 
 ----
 
@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow?logo=java&logoColor=white&style=flat-square) 
 
-- *Python for most projects**
+- *I use Python for most projects**
 
 - *Check out "PROJECT TR1PW1R3"*
   *soon will be released!*
