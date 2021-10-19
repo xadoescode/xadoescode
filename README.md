@@ -41,6 +41,6 @@ href="https://github.com/TECHH4CK/PROJECT_TR1PW1R3"><img title="View" src="https
 
 [![WINDOWS](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-![Termux](https://img.shields.io/badge/%3E__-Termux-black?style=for-the-badge)
+[![Termux](https://img.shields.io/badge/%3E__-Termux-black?style=for-the-badge)](https://termux.com/)
 
 --------
