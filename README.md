@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TECHH4CK
-- 👀 I’m interested in hacking & software penetrating
+- 👀 I’m interested in hacking & software penetration testing
 - 🌱 I’m currently learning high-level general-purpose programming language
 - 💞️  Not into collaboration atm.
 - 📫 Reach me at techh4ck.code@gmail.com 
