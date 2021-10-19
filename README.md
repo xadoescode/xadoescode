@@ -4,11 +4,11 @@
 - 💞️  Not into collaboration atm.
 - 📫 Reach me at techh4ck.code@gmail.com 
 ---
-> **💾 Mostly I use Python 🐍**
+> **💾 Mainly I use Python 🐍**
 
 > **📦 Can write code using: Python, HTML, CSS, JavaScript, C#**
 
-> 👀 Huge nerd irl tbh
+> 👀 Huge nerd irl tho
 
 ----
 
