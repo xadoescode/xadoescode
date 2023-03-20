@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @TECHH4CK
-- 👀 I’m interested in hacking & software penetration testing
-- 🌱 I’m currently only use Python as my default programming language 
+- 👀 I’m interested in programming :P
+- 🌱 I currently use Python as my default programming language 
 - 💞️  Not into collaboration atm.
 - 📫 Reach me at techh4ck.code@gmail.com 
 ---
-> **💾 Mainly I use python to program 🐍**
 
 > **📦 I can write code in Python, HTML, CSS, JavaScript, C#**
 
-> 👀 
 
 ----
 
