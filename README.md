@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @TECHH4CK
-- 👀 I’m interested in programming :P
-- 🌱 I currently use Python as my default programming language 
-- 💞️  Not into collaboration atm.
-- 📫 Reach me at techh4ck.code@gmail.com 
+- 👋 Hi, I’m @XA
+- 👀 I’m interested in programming and more! 
+- 🌱 I use Python as my main programming language 
+- 💞️ Looking to collaborate with me? Sure!
+- 📫 Reach me at isa@elearning.edu.my 
 ---
 
-> **📦 I can write code in Python, HTML, CSS, JavaScript, C#**
+> **📦 I'm proficient in writing code using Python, Java, C#**
 
 
 ----
