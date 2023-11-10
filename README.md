@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and more! 
 - 🌱 I use Python as my main programming language 
 - 💞️ Looking to collaborate with me? Sure!
-- 📫 Reach me at isa@elearning.edu.my 
+- 📫 Reach me at techh4ck.code@gmail.com
 ---
 
 > **📦 I'm proficient in writing code using Python, Java, C#**
